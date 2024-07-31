@@ -19,3 +19,6 @@ After a while you should see a video file in the root of the project
 - Put in another banner :)
 - Set `headless` to `false` in [index.js](index.js) to see the browser in action
 - Change video format (see [mime-types.json](mime-types.json) for supported formats)
+
+### TODO
+- Use https://github.com/josephrocca/getVideoFrames.js/blob/main/mod.js to get frames from video
